@@ -6,7 +6,7 @@ export default function Home() {
       <button
         className="bg-blue-500 text-white px-4 py-2 rounded-md"
         onClick={() => {
-          throw new Error("Test error");
+          throw new Error("Test error new");
         }}
       >
         Test error
